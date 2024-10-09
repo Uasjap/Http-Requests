@@ -44,4 +44,9 @@ Adding place to favorites:
 
 ![image](https://github.com/user-attachments/assets/bf445845-83be-4ffa-a202-8ec43ef3d02d)
 
+## Contacts
+
+* name: Vasilijs Volkovs
+* email: uasjap@gmail.com
+* Telegram: @Vas5ja
    
